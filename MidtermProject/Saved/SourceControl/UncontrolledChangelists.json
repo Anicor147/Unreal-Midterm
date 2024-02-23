@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Github/Unreal-Midterm/MidtermProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Github/Unreal-Midterm/MidtermProject/Content/Assets/Player_Character/Character/Paladin_diffuse.uasset",
+				"E:/Github/Unreal-Midterm/MidtermProject/Content/Assets/Player_Character/Character/Paladin_MAT.uasset",
+				"E:/Github/Unreal-Midterm/MidtermProject/Content/Assets/Player_Character/Character/Paladin_normal.uasset",
+				"E:/Github/Unreal-Midterm/MidtermProject/Content/Assets/Player_Character/Character/Paladin_specular.uasset",
+				"E:/Github/Unreal-Midterm/MidtermProject/Content/Assets/Player_Character/Character/Paladin_WProp_J_Nordstrom.uasset",
+				"E:/Github/Unreal-Midterm/MidtermProject/Content/Assets/Player_Character/Character/Paladin_WProp_J_Nordstrom_PhysicsAsset.uasset",
+				"E:/Github/Unreal-Midterm/MidtermProject/Content/Assets/Player_Character/Character/Paladin_WProp_J_Nordstrom_Skeleton.uasset",
+				"E:/Github/Unreal-Midterm/MidtermProject/Content/Assets/Player_Character/Animations/Sword_And_Shield_Block.uasset",
+				"E:/Github/Unreal-Midterm/MidtermProject/Content/Assets/Player_Character/Animations/Sword_And_Shield_Block_Idle.uasset",
+				"E:/Github/Unreal-Midterm/MidtermProject/Content/Assets/Player_Character/Animations/Sword_And_Shield_Death.uasset",
+				"E:/Github/Unreal-Midterm/MidtermProject/Content/Assets/Player_Character/Animations/Sword_And_Shield_Idle__1_.uasset",
+				"E:/Github/Unreal-Midterm/MidtermProject/Content/Assets/Player_Character/Animations/Sword_And_Shield_Jump.uasset",
+				"E:/Github/Unreal-Midterm/MidtermProject/Content/Assets/Player_Character/Animations/Sword_And_Shield_Run.uasset",
+				"E:/Github/Unreal-Midterm/MidtermProject/Content/Assets/Player_Character/Animations/Sword_And_Shield_Slash__1_.uasset",
+				"E:/Github/Unreal-Midterm/MidtermProject/Content/Assets/Player_Character/Animations/Sword_And_Shield_Walk.uasset",
+				"E:/Github/Unreal-Midterm/MidtermProject/Content/Assets/Player_Character/Animations/APB_PlayerAnimation.uasset",
+				"E:/Github/Unreal-Midterm/MidtermProject/Content/Assets/Player_Character/Animations/ABP_Solder.uasset",
+				"E:/Github/Unreal-Midterm/MidtermProject/Content/Assets/Player_Character/Animations/ABP_Soldier.uasset",
+				"E:/Github/Unreal-Midterm/MidtermProject/Content/Assets/Player_Character/Animations/AM_SolderWalk.uasset"
+			]
+		}
+	]
+}
