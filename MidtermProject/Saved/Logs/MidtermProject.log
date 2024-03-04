@@ -1589,3 +1589,11 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.03.04-20.41.51:349][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
 [2024.03.04-20.41.51:404][566]LogPlayLevel: Display: Destroying online subsystem :Context_11
 [2024.03.04-20.42.11:545][ 16]LogViewport: Scene viewport resized to 822x580, mode Windowed.
+[2024.03.04-20.42.47:698][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.03.04-20.42.50:889][258]LogSlate: Window 'Save Content' being destroyed
+[2024.03.04-20.42.50:926][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-20.42.51:076][258]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.03.04-20.42.51:077][258]LogSavePackage: Moving '../../../../Github/Unreal-Midterm/MidtermProject/Saved/BP_ThirdPersonCharacter67E355C9401B29D9C7BB72934760C99C.tmp' to '../../../../Github/Unreal-Midterm/MidtermProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.03.04-20.42.51:088][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 429 ms)
+[2024.03.04-20.42.51:090][258]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.03.04-20.42.51:090][258]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
